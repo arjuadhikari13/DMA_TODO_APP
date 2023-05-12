@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TODO APP</string>
+    <string name="todos">TO Do Tasks </string>
+    <string name="add_todo_item">Add todo item</string>
+    <string name="item_title">Title : Item </string>
+    <string name="welcome_text">YOUR TODO TASKS </string>
+    <string name="heading">TASKS FOR THE DAY </string>
+    <string name="add_todo_item_placeholder">Enter todo item</string>
+    <string name="new_todo_item">New ITEM</string>
+    <string name="update_item">Update ITEM</string>
+    <string name="home_item">Home</string>
+    <string name="contact_item">Contact</string>
+    <string name="share_item">Share</string>
+    <string name="opens_navigation_drawer">Open Navigation</string>
+</resources>
