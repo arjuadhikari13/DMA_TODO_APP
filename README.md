@@ -15,7 +15,6 @@ Run the app
 6) Landscape optimized
 7) Error validation
 8) CRUD Operation
-9) 
 
 TodoApp employs the Model-View-ViewModel (MVVM) architectural paradigm. In Android development, the MVVM architectural pattern is frequently used because it encourages the separation of responsibilities and makes it possible for the app's many levels to exchange data effectively.
 The TodoItem object and the database actions specified in the DAO (Data Access Object) interface are part of the data layer in TodoApp, which is represented by the Model. Between the Model and the View, there is an intermediate called the ViewModel. It obtains information from the Model and gets it ready for display in the View. The business logic, such as that used to add, update, and delete to-do items, is also contained in the ViewModel.Activities, fragments, and layouts are some examples of the user interface elements found on the View layer. The View is in charge of representing data and documenting user interactions. It monitors modifications to the ViewModel's data and refreshes the UI as necessary.
